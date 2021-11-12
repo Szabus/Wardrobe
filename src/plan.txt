@@ -1,0 +1,20 @@
+1. létrehozzuk a ruhaneműk osztályait
+2. ősosztály a ruhaneműknek ahol kezeljük a közös tulajdonságaikat
+3. létrehozni a ruhaneműk külön tulajdonságait
+4. olvassuk be a fájlt
+5. betesszük az összes ruhát egy közös listába
+6. adjuk át a listákat egy WardrobaControllernek
+7. controllerben szétszedjük fajták szerint
+           - for végigmegyünk allClotheslist
+           -
+
+
+
+        - split-el szétszedjük a nagy listát
+        - if 0.index = póló - add póló lista
+
+8. selejtező osztálynak átadjuk a külön listákat
+
+9. If - et használunk  selejtezéshez
+10. Counter ahhoz, hogy számolja a selejtezett ruhákat
+11.
